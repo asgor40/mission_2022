@@ -59,6 +59,39 @@ h4{
     line-height: 0;
 }
 
+.mission_h1{
+    text-align: center;
+}
+
+.mission_vission_goals{
+    display: flex;
+    margin: 5% 12.5%;
+}
+
+.mission{
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: paleturquoise;
+    width: 25%;
+}
+
+.vission{
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: papayawhip;
+    width: 25%;
+}
+
+.goal{
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: palegoldenrod;
+    width: 25%;
+}
+
 footer h4{
     font-style: italic;
     color: orangered;
