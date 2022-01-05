@@ -4,11 +4,12 @@ body{
 
 h1{
     font-size: 50px;
-    line-height: 15px;
+    margin-left: 20px;
 }
 
 h2{
     font-size: 40px;
+    margin-left: 20px;
 }
 
 span{
@@ -30,6 +31,10 @@ span{
 .half-width{
     width: 40%;
     margin: 5%;
+}
+
+.border_left{
+    border-left: 4px solid tomato;
 }
 
 .half-width img{
