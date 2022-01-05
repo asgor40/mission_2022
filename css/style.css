@@ -39,22 +39,35 @@ span{
     margin: 5%;
 }
 
-.dev-width{
+.dev-sec{
+    background-image: url(../img/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 24%;
+}
+
+.dev-width:first-child{
     width: 40%;
-    margin-left: 10%;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+
+.dev-width:last-child{
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 9%;
 }
 
 .dev-width img{
     width: 100%;
 }
 
+
 .border_left{
     border-left: 4px solid tomato;
 }
 
 .half-width img{
-    width: 86%;
-    height: 86%;
+    width: 100%
 }
 
 
@@ -81,7 +94,7 @@ h4{
 
 .mission{
     padding: 10px 20px;
-    margin: 10px;
+    margin-left: 5%;
     border-radius: 10px;
     background-color: paleturquoise;
     width: 25%;
@@ -89,7 +102,7 @@ h4{
 
 .vission{
     padding: 10px 20px;
-    margin: 10px;
+    margin-left: 2%;
     border-radius: 10px;
     background-color: papayawhip;
     width: 25%;
@@ -97,7 +110,8 @@ h4{
 
 .goal{
     padding: 10px 20px;
-    margin: 10px;
+    margin-left: 2%;
+    margin-right: 5%;
     border-radius: 10px;
     background-color: palegoldenrod;
     width: 25%;
