@@ -8,12 +8,14 @@ body{
 
 h1{
     font-size: 50px;
+}
+
+.first_heading{    
     margin-left: 20px;
 }
 
 h2{
     font-size: 40px;
-    margin-left: 20px;
 }
 
 span{
@@ -35,6 +37,15 @@ span{
 .half-width{
     width: 40%;
     margin: 5%;
+}
+
+.dev-width{
+    width: 40%;
+    margin-left: 10%;
+}
+
+.dev-width img{
+    width: 100%;
 }
 
 .border_left{
@@ -65,7 +76,7 @@ h4{
 
 .mission_vission_goals{
     display: flex;
-    margin: 5% 12.5%;
+    margin-bottom: 50px;
 }
 
 .mission{
