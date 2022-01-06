@@ -53,8 +53,9 @@ span{
     background-image: url(../img/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: right bottom;
-    background-size: 14%;
-    margin-bottom: 50px;
+    background-size: 19%;
+    padding-bottom: 75px;
+    padding-right: 30px;
 }
 
 .dev-width:first-child{
