@@ -76,7 +76,9 @@ span{
 
 
 .border_left{
-    border-left: 4px solid tomato;
+   border-left: 7px solid;
+    border-image: linear-gradient(#ffa500, #ff4500);
+    border-image-slice: 1;
 }
 
 .half-width img{
