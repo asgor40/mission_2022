@@ -62,14 +62,14 @@ span{
 
 .dev-width:first-child{
     width: 40%;
-    margin-left: 12%;
+    margin-left: 7%;
     margin-right: 3%;
 }
 
 .dev-width:last-child{
     width: 40%;
     margin-left: 3%;
-    margin-right: 12%;
+    margin-right: 7%;
 }
 
 .dev-width img{
