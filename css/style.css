@@ -32,9 +32,14 @@ span{
 }
 
 .half-width{
-    width: 45%;
-    margin-left: 5%;
-    margin-right: 5%;
+    width: 40%;
+    margin-left: 12%;
+    margin-right: 3%;
+}
+
+.half-width:last-child {
+    margin-left: 3%;
+    margin-right: 12%;
 }
 
 .dev-sec{
@@ -57,18 +62,19 @@ span{
 
 .dev-width:first-child{
     width: 40%;
-    margin-left: 5%;
-    margin-right: 2%;
+    margin-left: 12%;
+    margin-right: 3%;
 }
 
 .dev-width:last-child{
     width: 40%;
-    margin-left: 2%;
-    margin-right: 9%;
+    margin-left: 3%;
+    margin-right: 12%;
 }
 
 .dev-width img{
-    width: 100%;
+    width: 80%;
+    padding-left:10%;
 }
 
 
@@ -107,7 +113,7 @@ h4{
 
 .mission{
     padding: 10px 20px;
-    margin-left: 5%;
+    margin-left: 12%;
     border-radius: 10px;
     background-color: paleturquoise;
     width: 25%;
@@ -124,10 +130,22 @@ h4{
 .goal{
     padding: 10px 20px;
     margin-left: 2%;
-    margin-right: 5%;
+    margin-right: 12%;
     border-radius: 10px;
     background-color: palegoldenrod;
     width: 25%;
+}
+
+.mission p {
+    font-size: 12px;
+}
+
+.vission p {
+    font-size: 12px;
+}
+
+.goal p {
+    font-size: 12px;
 }
 
 footer h4{
