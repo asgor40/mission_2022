@@ -133,5 +133,19 @@ h4{
 
 footer h4{
     font-style: italic;
-    color: orangered;
+    color: orangered;    
+    margin-top: 55px;
+}
+
+footer p {
+    color: #ffffffa1;
+    line-height: 0;
+    margin-bottom: 50px;
+}
+
+.half-width h2 {
+    margin-top: 68px;
+}
+span.footer-span {
+    color: white;
 }
