@@ -40,8 +40,9 @@ span{
 .dev-sec{
     background-image: url(../img/shapes/shape-1.png);
     background-repeat: no-repeat;
-    background-size: 24%;    
+    background-size: 20%;
     background-position: left;
+    margin-left: 5%;
 }
 
 
