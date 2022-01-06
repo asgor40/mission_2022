@@ -70,7 +70,8 @@ span{
 }
 
 .dev-width img{
-    width: 100%;
+    width: 80%;
+    padding-left: 100px;
 }
 
 
