@@ -12,6 +12,7 @@ h1{
 
 .first_heading{    
     margin-left: 20px;
+    line-height: 50px;
 }
 
 h2{
@@ -42,7 +43,17 @@ span{
 .dev-sec{
     background-image: url(../img/shapes/shape-1.png);
     background-repeat: no-repeat;
-    background-size: 24%;
+    background-size: 24%;    
+    background-position: left;
+}
+
+
+.community-sec{
+    background-image: url(../img/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 14%;
+    margin-bottom: 50px;
 }
 
 .dev-width:first-child{
