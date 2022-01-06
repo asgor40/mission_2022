@@ -36,8 +36,9 @@ span{
 }
 
 .half-width{
-    width: 40%;
-    margin: 5%;
+    width: 45%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .dev-sec{
