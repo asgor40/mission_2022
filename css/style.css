@@ -70,8 +70,7 @@ span{
 }
 
 .dev-width img{
-    width: 80%;
-    padding-left: 100px;
+    width: 100%;
 }
 
 
@@ -80,7 +79,8 @@ span{
 }
 
 .half-width img{
-    width: 100%
+    width: 80%;
+    padding-left: 100px;
 }
 
 
